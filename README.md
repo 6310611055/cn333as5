@@ -37,7 +37,7 @@
 
 ทำการกู้คืนเบอร์
 
-<img src = "pics6.png" alt ="restore" width = "15%" Height ="15%">
+<img src = "pic6.png" alt ="restore" width = "15%" Height ="15%">
 
 # Demo สาธิตวิธีการใช้งาน
 LinkVideo=> [Click_Here]()
