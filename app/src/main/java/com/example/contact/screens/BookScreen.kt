@@ -33,7 +33,7 @@ fun ListScreen(viewModel: MainViewModel) {
             TopAppBar(
                 title = {
                     Text(
-                        text = "PhoneBook",
+                        text = "Contact Book",
                         color = MaterialTheme.colors.onPrimary
                     )
                 },
